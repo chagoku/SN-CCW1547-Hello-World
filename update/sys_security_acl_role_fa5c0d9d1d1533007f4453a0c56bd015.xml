@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>trainingadmin</sys_created_by>
+        <sys_created_on>2019-05-07 20:51:48</sys_created_on>
+        <sys_id>fa5c0d9d1d1533007f4453a0c56bd015</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_hello_world_table.x_snc_hello_world.user</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">a25cc99d1d1533007f4453a0c56bd098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">a25cc99d1d1533007f4453a0c56bd098</sys_scope>
+        <sys_security_acl display_value="x_snc_hello_world_table">765c0d9d1d1533007f4453a0c56bd013</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_fa5c0d9d1d1533007f4453a0c56bd015</sys_update_name>
+        <sys_updated_by>trainingadmin</sys_updated_by>
+        <sys_updated_on>2019-05-07 20:51:48</sys_updated_on>
+        <sys_user_role display_value="x_snc_hello_world.user" name="x_snc_hello_world.user">ea5cc99d1d1533007f4453a0c56bd0de</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

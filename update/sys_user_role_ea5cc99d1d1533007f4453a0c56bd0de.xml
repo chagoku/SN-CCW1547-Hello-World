@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_hello_world.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>trainingadmin</sys_created_by>
+        <sys_created_on>2019-05-07 20:51:47</sys_created_on>
+        <sys_id>ea5cc99d1d1533007f4453a0c56bd0de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_hello_world.user</sys_name>
+        <sys_package display_value="Hello World" source="x_snc_hello_world">a25cc99d1d1533007f4453a0c56bd098</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">a25cc99d1d1533007f4453a0c56bd098</sys_scope>
+        <sys_update_name>sys_user_role_ea5cc99d1d1533007f4453a0c56bd0de</sys_update_name>
+        <sys_updated_by>trainingadmin</sys_updated_by>
+        <sys_updated_on>2019-05-07 20:51:47</sys_updated_on>
+    </sys_user_role>
+</record_update>
